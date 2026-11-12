@@ -4,9 +4,7 @@ An interactive, single-file course in data structures and algorithms: first in C
 
 ## Read it
 
-**Online:** https://briankimurgor.github.io/dsa-c-python/
-
-**Offline:** download `index.html` and open it in any browser. No build step, no dependencies.
+Download `index.html` and open it in any browser. It works offline. No build step, no dependencies.
 
 ## What is inside
 
