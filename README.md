@@ -4,7 +4,9 @@ An interactive, single-file course in data structures and algorithms: first in C
 
 ## Read it
 
-Open `bare-metal-to-python.html` in any browser. It works offline. No build step, no dependencies.
+**Online:** https://briankimurgor.github.io/dsa-c-python/
+
+**Offline:** download `index.html` and open it in any browser. No build step, no dependencies.
 
 ## What is inside
 
